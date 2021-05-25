@@ -1,14 +1,14 @@
 ### Hi there I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com
 <br />
-<p align="center">
+### Gihub Stats
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandiagusm&show_icons=true&theme=tokyonight" />
 </p>
 <br/>
 <br />
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&show_icons=true&theme=tokyonight&layout=compac&langs_count=10t" />
-</p>
+### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&amp;layout=compact" alt="Top Languages"></p>
 <br/>
 
 
