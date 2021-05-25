@@ -1,7 +1,7 @@
 ### Hi there I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com
 <br />
-### Gihub Stats
+### Github Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandiagusm&show_icons=true&theme=tokyonight" />
 </p>
