@@ -7,7 +7,6 @@
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&amp;layout=compact" alt="Top Languages"></p>
 
-
 <!--
 Here are some ideas to get you started:
 
