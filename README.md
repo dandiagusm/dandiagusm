@@ -1,14 +1,14 @@
 ### Hi there I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryuuu" alt="aryuuu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dandiagusm" alt="dandiagusm" /> </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandiagusm&show_icons=true&theme=tokyonight" />
 </p>
 <br/>
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&show_icons=true&theme=tokyonight&layout=compac&langs_count=15t" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&show_icons=true&theme=tokyonight&layout=compac&langs_count=10t" />
 </p>
 <br/>
 
