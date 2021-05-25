@@ -1,7 +1,6 @@
 ### Hi there I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dandiagusm" alt="dandiagusm" /> </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandiagusm&show_icons=true&theme=tokyonight" />
 </p>
