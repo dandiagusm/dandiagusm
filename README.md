@@ -1,4 +1,4 @@
-### Hi there I'm Dandi Agus Maulana
+### Hello, I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com / 13517077@std.stei.itb.ac.id
 
 ### Gihub Stats
