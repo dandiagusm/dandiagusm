@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dandiagusm&label=Profile%20views&color=0e75b6&style=flat" alt="dandiagusm" /> </p>
 -->
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/dandiagusm/dandiagusm/blob/main/gifs/coder.gif" />
+<img align="right" height="100" width="200" alt="" src="https://github.com/dandiagusm/dandiagusm/blob/main/gifs/coder.gif" />
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. 🚀
 
