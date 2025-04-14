@@ -19,6 +19,7 @@ Feel free to connect with me @dandiagusm for all things tech or just to say hell
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Languages and Tools:
 
