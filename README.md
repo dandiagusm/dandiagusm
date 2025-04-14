@@ -22,6 +22,7 @@ Feel free to connect with me @dandiagusm for all things tech or just to say hell
 </p>
 <hr>
 
+<!--
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
@@ -39,6 +40,7 @@ Feel free to connect with me @dandiagusm for all things tech or just to say hell
 <code><img height="27" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+-->
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
