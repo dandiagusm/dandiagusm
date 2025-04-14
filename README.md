@@ -2,9 +2,6 @@
 ### Most Used Languages
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&layout=compact&theme=radical&hide=swift,c%23,html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,shaderlab'/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dandiagusm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <!--
 ### Hello, I'm Dandi Agus Maulana
 - 📫 How to reach me: dandiagus.m@gmail.com / 081380800260
