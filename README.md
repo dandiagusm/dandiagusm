@@ -14,11 +14,13 @@
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. 🚀
 
 Feel free to connect with me @dandiagusm for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-<hr>
-<h3 align="left">✨ Random Dev Quote Generator::</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-<hr>
 
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
 
 ### Languages and Tools:
 
