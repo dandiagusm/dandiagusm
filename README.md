@@ -12,6 +12,7 @@
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. 🚀
 
 Feel free to connect with me @dandiagusm for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -19,7 +20,7 @@ Feel free to connect with me @dandiagusm for all things tech or just to say hell
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 ### Languages and Tools:
 
