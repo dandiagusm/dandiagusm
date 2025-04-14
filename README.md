@@ -19,6 +19,7 @@ Feel free to connect with me @dandiagusm for all things tech or just to say hell
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr>
 
