@@ -1,6 +1,7 @@
 
 ### Most Used Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&hide=css,shell,batchfile,swift,csharp;layout=compact" alt="Top Languages"></p>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&layout=compact&theme=radical&hide=swift,csharp'/>
 
 <!--
 ### Hello, I'm Dandi Agus Maulana
