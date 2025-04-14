@@ -1,6 +1,6 @@
 
 ### Most Used Languages
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&layout=compact&theme=radical&hide=swift,c%23,html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript, shaderlab'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dandiagusm&layout=compact&theme=radical&hide=swift,c%23,html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,shaderlab'/>
 
 <!--
 ### Hello, I'm Dandi Agus Maulana
