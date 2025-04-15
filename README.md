@@ -15,7 +15,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @dandiagusm for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-### ✨ Random Dev Quote Generator </h3>
+### ✨ Random Dev Quote Generator ✨</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
